@@ -1,0 +1,11 @@
+c:\users\d.bobrovich\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\d.bobrovich\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\d.bobrovich\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\d.bobrovich\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+c:\users\d.bobrovich\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Telegram.Bot.dll
+c:\users\d.bobrovich\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+c:\users\d.bobrovich\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Telegram.Bot.xml
+c:\users\d.bobrovich\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\d.bobrovich\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\d.bobrovich\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\d.bobrovich\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\MihaZupan.HttpToSocks5Proxy.dll
