@@ -17,19 +17,22 @@ namespace ConsoleApplication1
 
         static void Main(string[] args)
         {
-            var proxy = new HttpToSocks5Proxy("162.243.7.181", 54669);
-            proxy.ResolveHostnamesLocally = true;
-
-            Bot = new TelegramBotClient("656676434:AAHtZ9yd-HaGyM1CoROJyXxgMuzgyt03r1o", proxy);
-            Bot.OnMessage += Bot_OnMessage; 
-            Bot.SetWebhookAsync("");
-
-            var me = Bot.GetMeAsync().Result;
-            Console.Title = me.Username;
-
-            Bot.StartReceiving();
+            Parser p = new Parser();
+            Console.WriteLine(p.Pars());
             Console.ReadLine();
-            Bot.StopReceiving();
+            //var proxy = new HttpToSocks5Proxy("162.243.7.181", 54669);
+            //proxy.ResolveHostnamesLocally = true;
+
+            //Bot = new TelegramBotClient("656676434:AAHtZ9yd-HaGyM1CoROJyXxgMuzgyt03r1o", proxy);
+            //Bot.OnMessage += Bot_OnMessage; 
+            //Bot.SetWebhookAsync("");
+
+            //var me = Bot.GetMeAsync().Result;
+            //Console.Title = me.Username;
+
+            //Bot.StartReceiving();
+            //Console.ReadLine();
+            //Bot.StopReceiving();
         }
 
         private static async void Bot_OnMessage(object sender, Telegram.Bot.Args.MessageEventArgs e)

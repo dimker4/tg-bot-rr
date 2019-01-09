@@ -9,3 +9,17 @@ c:\users\d.bobrovich\documents\visual studio 2015\Projects\ConsoleApplication1\C
 c:\users\d.bobrovich\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 c:\users\d.bobrovich\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
 C:\Users\d.bobrovich\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\MihaZupan.HttpToSocks5Proxy.dll
+C:\tg-bot-rr\tg-bot-rr\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\tg-bot-rr\tg-bot-rr\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\tg-bot-rr\tg-bot-rr\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\tg-bot-rr\tg-bot-rr\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\tg-bot-rr\tg-bot-rr\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\tg-bot-rr\tg-bot-rr\ConsoleApplication1\ConsoleApplication1\bin\Debug\MihaZupan.HttpToSocks5Proxy.dll
+C:\tg-bot-rr\tg-bot-rr\ConsoleApplication1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\tg-bot-rr\tg-bot-rr\ConsoleApplication1\ConsoleApplication1\bin\Debug\Telegram.Bot.dll
+C:\tg-bot-rr\tg-bot-rr\ConsoleApplication1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\tg-bot-rr\tg-bot-rr\ConsoleApplication1\ConsoleApplication1\bin\Debug\Telegram.Bot.xml
+C:\tg-bot-rr\tg-bot-rr\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\tg-bot-rr\tg-bot-rr\ConsoleApplication1\ConsoleApplication1\bin\Debug\HtmlAgilityPack.dll
+C:\tg-bot-rr\tg-bot-rr\ConsoleApplication1\ConsoleApplication1\bin\Debug\HtmlAgilityPack.pdb
+C:\tg-bot-rr\tg-bot-rr\ConsoleApplication1\ConsoleApplication1\bin\Debug\HtmlAgilityPack.xml
