@@ -23,7 +23,7 @@ namespace ConsoleApplication1
             //var proxy = new HttpToSocks5Proxy("162.243.7.181", 54669);
             //proxy.ResolveHostnamesLocally = true;
 
-            //Bot = new TelegramBotClient("656676434:AAHtZ9yd-HaGyM1CoROJyXxgMuzgyt03r1o", proxy);
+            //Bot = new TelegramBotClient("", proxy);
             //Bot.OnMessage += Bot_OnMessage; 
             //Bot.SetWebhookAsync("");
 
